@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Ejercicio 1 - Casa DDA",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/ejercicio1_casa.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Ejercicio 2 - Rosetas Bresenham",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/ejercicio2_roseta.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
